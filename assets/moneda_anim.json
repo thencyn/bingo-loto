@@ -1,0 +1,60 @@
+{
+    "anims": [
+        {
+            "key": "moneda-anim-rotacion",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-01"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-02"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-03"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-04"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-05"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-06"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-07"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-08"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-09"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-10"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-11"
+                },
+                {
+                    "key": "AtlasMoneda",
+                    "frame": "moneda-12"
+                }
+            ]
+        }
+    ]
+}
