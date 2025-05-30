@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "moneda.png",
+			"image": "moneda_atlas.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 888,
@@ -267,6 +267,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:89b64a6e43e12cd71e54143123b02dbb:3d287d32160faf340eaa10717b65bc58:5e058bc5a210f3b5fc47ad48c9aad336$"
+		"smartupdate": "$TexturePacker:SmartUpdate:e32ca2ca740a71e61d9616588733fdaa:235ff898095e2a24e2b14ccba42a6cce:c28cd1fb3b2ac46374080d401ba0352d$"
 	}
 }
