@@ -1,0 +1,482 @@
+{
+	"textures": [
+		{
+			"image": "condor_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1551
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "condor-19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 625,
+						"h": 407
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 625,
+						"h": 407
+					}
+				},
+				{
+					"filename": "condor-18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 24,
+						"w": 625,
+						"h": 403
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 403
+					}
+				},
+				{
+					"filename": "condor-20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 24,
+						"w": 625,
+						"h": 403
+					},
+					"frame": {
+						"x": 628,
+						"y": 1,
+						"w": 625,
+						"h": 403
+					}
+				},
+				{
+					"filename": "condor-17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 41,
+						"w": 625,
+						"h": 399
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 399
+					}
+				},
+				{
+					"filename": "condor-21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 41,
+						"w": 625,
+						"h": 399
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1,
+						"w": 625,
+						"h": 399
+					}
+				},
+				{
+					"filename": "condor-16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 58,
+						"w": 625,
+						"h": 395
+					},
+					"frame": {
+						"x": 1255,
+						"y": 402,
+						"w": 625,
+						"h": 395
+					}
+				},
+				{
+					"filename": "condor-22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 58,
+						"w": 625,
+						"h": 395
+					},
+					"frame": {
+						"x": 1255,
+						"y": 402,
+						"w": 625,
+						"h": 395
+					}
+				},
+				{
+					"filename": "condor-03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 75,
+						"w": 625,
+						"h": 391
+					},
+					"frame": {
+						"x": 628,
+						"y": 406,
+						"w": 625,
+						"h": 391
+					}
+				},
+				{
+					"filename": "condor-13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 75,
+						"w": 625,
+						"h": 391
+					},
+					"frame": {
+						"x": 628,
+						"y": 406,
+						"w": 625,
+						"h": 391
+					}
+				},
+				{
+					"filename": "condor-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 91,
+						"w": 625,
+						"h": 388
+					},
+					"frame": {
+						"x": 1,
+						"y": 410,
+						"w": 625,
+						"h": 388
+					}
+				},
+				{
+					"filename": "condor-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 91,
+						"w": 625,
+						"h": 388
+					},
+					"frame": {
+						"x": 1,
+						"y": 410,
+						"w": 625,
+						"h": 388
+					}
+				},
+				{
+					"filename": "condor-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 110,
+						"w": 625,
+						"h": 383
+					},
+					"frame": {
+						"x": 1,
+						"y": 800,
+						"w": 625,
+						"h": 383
+					}
+				},
+				{
+					"filename": "condor-05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 110,
+						"w": 625,
+						"h": 383
+					},
+					"frame": {
+						"x": 1,
+						"y": 800,
+						"w": 625,
+						"h": 383
+					}
+				},
+				{
+					"filename": "condor-10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 195,
+						"w": 625,
+						"h": 363
+					},
+					"frame": {
+						"x": 1,
+						"y": 1185,
+						"w": 625,
+						"h": 363
+					}
+				},
+				{
+					"filename": "condor-06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 127,
+						"w": 625,
+						"h": 379
+					},
+					"frame": {
+						"x": 628,
+						"y": 799,
+						"w": 625,
+						"h": 379
+					}
+				},
+				{
+					"filename": "condor-15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 127,
+						"w": 625,
+						"h": 379
+					},
+					"frame": {
+						"x": 628,
+						"y": 799,
+						"w": 625,
+						"h": 379
+					}
+				},
+				{
+					"filename": "condor-07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 144,
+						"w": 625,
+						"h": 376
+					},
+					"frame": {
+						"x": 1255,
+						"y": 799,
+						"w": 625,
+						"h": 376
+					}
+				},
+				{
+					"filename": "condor-14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 144,
+						"w": 625,
+						"h": 376
+					},
+					"frame": {
+						"x": 1255,
+						"y": 799,
+						"w": 625,
+						"h": 376
+					}
+				},
+				{
+					"filename": "condor-08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 161,
+						"w": 625,
+						"h": 373
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1177,
+						"w": 625,
+						"h": 373
+					}
+				},
+				{
+					"filename": "condor-12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 161,
+						"w": 625,
+						"h": 373
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1177,
+						"w": 625,
+						"h": 373
+					}
+				},
+				{
+					"filename": "condor-09",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 178,
+						"w": 624,
+						"h": 369
+					},
+					"frame": {
+						"x": 628,
+						"y": 1180,
+						"w": 624,
+						"h": 369
+					}
+				},
+				{
+					"filename": "condor-11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 639,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 178,
+						"w": 624,
+						"h": 369
+					},
+					"frame": {
+						"x": 628,
+						"y": 1180,
+						"w": 624,
+						"h": 369
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2ce12d62b4accc59eaa0ef6de4412fb8:4cdc667b18d79b895703804fa0a2b01c:3575072c3acb787d11c3280efb0f7d90$"
+	}
+}

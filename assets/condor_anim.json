@@ -1,0 +1,100 @@
+{
+    "anims": [
+        {
+            "key": "condor-anim",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-01"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-02"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-03"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-04"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-05"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-06"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-07"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-08"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-09"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-10"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-11"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-12"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-13"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-14"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-15"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-16"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-17"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-18"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-19"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-20"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-21"
+                },
+                {
+                    "key": "AtlasCondor",
+                    "frame": "condor-22"
+                }
+            ]
+        }
+    ]
+}
