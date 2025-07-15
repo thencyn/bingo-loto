@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "anim-logo-animado",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasLogoAnimado",
+                    "frame": "logo-1"
+                },
+                {
+                    "key": "AtlasLogoAnimado",
+                    "frame": "logo-2"
+                },
+                {
+                    "key": "AtlasLogoAnimado",
+                    "frame": "logo-3"
+                },
+                {
+                    "key": "AtlasLogoAnimado",
+                    "frame": "logo-4"
+                }
+            ]
+        }
+    ]
+}
